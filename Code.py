@@ -14,3 +14,4 @@ if dir_3 == "red" :
 elif dir_3 == "blue" :
   print("You found the treasure. You win!")
 else: print("You fell into a hole. Game Over")
+input("Press ENTER to exit")
